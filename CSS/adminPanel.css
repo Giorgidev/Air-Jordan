@@ -1,0 +1,172 @@
+body{
+    background-color:rgba(128, 128, 128, 0.2);
+}
+ul li{
+    padding-left: 40px;
+}
+.form-inline{
+    position: relative;
+    right: 20px;
+}
+.ph{
+    border-radius: 50%;
+    cursor: pointer;
+}
+.form-control{
+    margin-right: 10px;
+}
+.pht1{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+.pht1:hover{
+    background-color:rgba(128, 128, 128, 0.2);
+}
+.pht1 svg{
+    position: relative;
+    left: 6px;
+}
+.crd{
+    height: 400px;
+    width: 350px;
+    background-color: white;
+    border: 1px solid rgba(128, 128, 128, 0.3);
+    position: relative;
+    top: 10px;
+    right: 10px;
+    box-shadow: 1px 1px 4px;
+    border-radius: 5px;
+    z-index: 999;
+}
+.head{
+    padding-top: 20px;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.2);
+}
+.head h6{
+    padding-top: 20px;
+}
+.mid{
+    display: flex;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.2);
+    height: 50px;
+}
+.fr{
+    padding-left: 55px;
+    position: relative;
+    top: 10px;
+}
+.sc{
+    padding-left: 8px;
+    position: relative;
+    top: 10px;
+}
+.sc a{
+    text-decoration: none;
+    color: black;
+}
+.logout{
+    border-bottom: 1px solid rgba(128, 128, 128, 0.2);
+    height: 70px;
+}
+.btn{
+    position: relative;
+    left: 120px;
+    top: 15px;
+}
+.one{
+    font-size: 10px;
+    padding-top: 15px;
+}
+.two{
+    font-size: 10px;
+    padding-top: 3px;
+}
+.dsh{
+    border-bottom:1px solid rgba(128, 128, 128, 0.2);
+}
+.barnv{
+    height: 100%;
+    width: 130px;
+}
+.rw p{
+    font-size: 13px;
+}
+.progress{
+    margin-top: 10px;
+}
+.prs{
+    margin-top: 20px;
+}
+.ld{
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.txt{
+    padding-top: 20px;
+}
+.bottom{
+    display: flex;
+    padding-top: 10px;
+}
+.date{
+    padding-left: 25px;
+}
+.rw{
+    margin-top: 20px;
+}
+.first{
+    display: flex;
+}
+.first p, h6{
+    padding-left: 40px;
+}
+.first{
+    padding-top: 20px;
+    border-bottom:1px solid rgba(128, 128, 128, 0.4);
+}
+.second input{
+    margin-top: 6px;
+}
+.second label{
+    margin-left: 10px;
+}
+.time{
+    width: 90px;
+    height: 30px;
+    background-color: red;
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.second{
+    display: flex;
+    margin-top: 30px;
+    border-bottom:1px solid rgba(128, 128, 128, 0.4);
+}
+.baton{
+    margin-bottom: 20px;
+    margin-left: 30px;
+    width: 200px;
+}
+.dwn{
+    padding-top: 60px;
+}
+.bta{
+    margin-top: 85px;
+}
+.user{
+    display: flex;
+}
+.memb{
+    margin-left: 20px;
+}
+.asd{
+    position: relative;
+    bottom: 10px;
+}
+
+

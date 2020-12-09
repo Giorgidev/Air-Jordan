@@ -1,0 +1,44 @@
+.crd12{
+    width: 450px;
+    height: 500px;
+    border: 1px solid rgba(128, 128, 128, 0.3);
+    justify-content: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+}
+.crd12 h4, p{
+   position: relative;
+   bottom: 30px;
+}
+input{
+    margin-top: 10px;
+    margin-left: 50px;
+    width: 350px;
+    height: 50px;
+    border: 1px solid rgba(128, 128, 128, 0.5);
+    border-radius: 5px;
+}
+.bottom{
+    position: relative;
+    top: 50px;
+    display: flex;
+}
+.btn{
+    position: relative;
+    left: 170px;
+}
+.bottom a{
+    text-decoration: none;
+    font-size: 15px;
+    position: relative;
+    top: 10px;
+    left: 50px;
+}
+.crd12 img{
+    position: relative;
+    bottom: 50px;
+    margin-left: 175px;
+}
