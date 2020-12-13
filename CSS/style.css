@@ -1,0 +1,192 @@
+body{
+    background: url('https://wallpaperset.com/w/full/a/4/9/213625.jpg')center center fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.bg-dark{
+    background-color: rgba(0, 0, 0, 0.9) !important;
+}
+.navbar-dark{
+    color: white !important;
+}
+ul li{
+    margin-left: 50px;
+    height: 40px;
+    width: 90px;
+}
+ul li:hover{
+    border-top: 5px solid  #E53A18;
+    transition: 0.1s;
+}
+nav{
+    border-bottom: 1px solid grey;
+}
+.text{
+    color: white;
+    margin-top: 220px;
+    position: relative;;
+}
+nav img{
+    margin-left: 20px;
+}
+.Jordans{ 
+    color: white;
+    position: relative;
+    top: 170px;
+}
+.w-100{
+    width: 60% !important;
+}
+#carouselExampleControls{
+    background-color:#ADEFD1FF;
+    margin-top: 250px;
+    width: 100%;
+}
+.carousel-inner{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.shop{
+    background: white;
+}
+.ro1{
+    padding-top: 60px;
+    padding-left: 60px;
+}
+.card{
+    margin: 20px 10px 20px 10px;
+    cursor: pointer;
+}
+.cnt{
+    margin-top: 100px;
+    color: white;
+}
+.size{
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 10px 10px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.size:hover{
+    transform: scale(1.1);
+    border: 1px solid orangered;
+}
+.rw{
+    padding-top: 10px;
+}
+.but{
+    width: 200px;
+}
+.pht7{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+.pht7 svg{
+    position: relative;
+    left: 6px;
+}
+.pht7:hover{
+    background-color:rgba(128, 128, 128, 0.4);
+}
+.ph{
+    border-radius: 50%;
+    cursor: pointer;
+}
+.crd5{
+    height: 400px;
+    width: 350px;
+    background-color: white;
+    border: 1px solid rgba(128, 128, 128, 0.3);
+    position: relative;
+    top: 10px;
+    right: 10px;
+    box-shadow: 1px 1px 4px;
+    border-radius: 5px;
+    z-index: 999;
+}
+.head{
+    padding-top: 20px;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.2);
+}
+.head h6{
+    padding-top: 20px;
+}
+.fr{
+    padding-left: 55px;
+    position: relative;
+    top: 10px;
+}
+.sc{
+    padding-left: 8px;
+    position: relative;
+    top: 10px;
+}
+.sc a{
+    text-decoration: none;
+    color: black;
+}
+.logout{
+    border-bottom: 1px solid rgba(128, 128, 128, 0.2);
+    height: 70px;
+}
+.btn12{
+    position: relative;
+    left: 120px;
+    top: 15px;
+}
+.mid{
+    display: flex;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.2);
+    height: 50px;
+}
+.one{
+    font-size: 10px;
+    padding-top: 15px;
+}
+.two{
+    font-size: 10px;
+    padding-top: 3px;
+}
+footer{
+    bottom: 0%;
+    height: 80px;
+}
+.fcb{
+    position: relative;
+    top: 35%;
+    left: 35%;
+}
+.fcb:hover{
+    transition: 0.3s;
+    color:  #4267B2;
+}
+.inst{
+    position: relative;
+    top: 35%;
+    left: 40%;
+}
+.inst:hover{
+    transition: 0.3s;
+    color: #C13584;
+}
+.twt{
+    position: relative;
+    top: 35%;
+    left:45% ;
+}
+.twt:hover{
+    transition: 0.3s;
+    color: #00acee;
+}
+.yt{
+    position: relative;
+    top: 35%;
+    left: 50%;
+}
+.yt:hover{
+    transition: 0.3s;
+    color: #FF0000;
+}
+

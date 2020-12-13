@@ -1,0 +1,59 @@
+.crd12{
+    width: 470px;
+    height: 500px;
+    border: 1px solid rgba(128, 128, 128, 0.3);
+    justify-content: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+}
+.crd12  p,h4{
+    position: relative;
+    bottom: 70px;
+}
+form{
+    position: relative;
+    bottom: 70px;
+}
+.crd12 img{
+    position: relative;
+    bottom: 80px;
+    margin-left: 175px;
+}
+.nickname{
+    display: flex;
+    margin-left: 50px;
+}
+.nickname input{
+    margin-left: 5px;
+}
+input{
+    border-radius: 5px;
+    border: 1px solid rgba(128, 128, 128, 0.5);
+    height: 40px;
+}
+.bottom{
+    margin-left: 55px;
+    margin-top: 10px;
+}
+.bottom input{
+    width: 360px;
+}
+.hbd{
+    margin-left: 55px;
+    width: 360px;
+}
+.se{
+    padding-left: 5px;
+}
+.se input{
+    position: relative;
+    top: 15px;
+}
+.btn{
+    margin-left: 335px;
+    margin-top: 20px;
+}
+
